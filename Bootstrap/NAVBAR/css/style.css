@@ -1,0 +1,26 @@
+/* NAB BAR START*/
+.bg-dark {
+    background-color: #d8dbde!important;
+}
+img.mywidth {
+    width: 170px;
+}
+.nav-link.mycolour {
+    color: rgb(255 255 255)!important;
+}
+.nav-link.sign-colour {
+    color: rgb(180 6 224 / 88%)!important;
+}
+a.nav-link.mycolour:hover {
+    color: orange!important;
+}
+/* NAB BAR END*/
+/* POST SECTION START*/
+section.post-section {
+    background: linear-gradient(90deg, rgba(59,57,64,1) 0%, rgba(10,3,23,1) 0%, rgba(159,29,70,1) 0%, rgba(10,3,24,1) 0%, rgba(89,86,96,1) 0%, rgba(197,194,212,1) 0%, rgba(242,234,250,1) 0%, rgba(73,72,89,1) 0%, rgba(116,109,130,1) 0%, rgba(211,209,214,1) 0%, rgba(68,65,74,1) 0%, rgba(193,189,199,1) 0%, rgba(131,129,136,1) 0%, rgba(63,61,68,1) 0%, rgba(232,226,238,1) 0%, rgba(225,223,235,1) 100%, rgba(220,215,230,1) 100%);
+    padding-top: 50px;
+    height: auto;
+}
+.blockquote-footer .source-title {
+    font-style: italic;
+}
